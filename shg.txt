@@ -1,0 +1,98 @@
+ <div class="row">
+                      <div class="col-sm-4">
+                        <a href="assets/img/1.png" class="thumbnail">
+                          <img src="assets/img/1.png">
+                        </a>
+                      </div>
+                      <div class="col-sm-8">
+                        <p style="font-size:17px;">Website SMK Puspita Persada Jakarta Selatan</p>
+                        <ul>
+                          <li>Judul : Analisa dan perancangan E-CRM untuk meningkatkan hubungan baik orang tua siswa pada SMK Puspita Persada</li>
+                          <li>PHP Native, MySQL, Bootstrap, Admin LTE, JavaScript</li>
+                          <li>Login ada 3 hak akses : Staff, Orang tua, Guru</li>
+                          <li>Entry jadwal matpel, ujian, kehadiran, siswa, siswa perkelas, konsultasi, testimoni, DLL</li>
+                          <li>Laporan siswa terbaik, laporan grafik, DLL</li>
+                          <li>Bisa cetak/ cetak berdasarkan periode</li>
+                          <li>Galery Foto</li>
+                          <li>Info Sekolah</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <!-- PORT 1 AKHIR -->
+                    <!-- PORT 2 AWAL -->
+                    <div class="row">
+                      <hr>
+                      <div class="col-sm-4">
+                        <a href="assets/img/2.png" class="thumbnail">
+                          <img src="assets/img/2.png">
+                        </a>
+                      </div>
+                      <div class="col-sm-8">
+                        <p style="font-size:17px;">Tabungan. </p>
+                        <ul>
+                          <li>PHP Native, MySQL, JavaScript</li>
+                          <li>ada fitur Login sebelum masuk ke menu utama</li>
+                          <li>bisa cetak / cetak berdasarkan periode</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <!-- PORT 2 AKHIR -->
+                    <!-- PORT 3 AWAL -->
+                    <div class="row">
+                      <hr>
+                      <div class="col-sm-4">
+                        <a href="assets/img/3.png" class="thumbnail">
+                          <img src="assets/img/3.png">
+                        </a>
+                      </div>
+                      <div class="col-sm-8">
+                        <p style="font-size:17px;">Pergudangan</p>
+                        <ul>
+                          <li>SB Admin 2, PHP CI, Bootstrap 4</li>
+                          <li>login untuk 1 admin dan banyak user</li>
+                          <li>Input data barang, ubah, hapus</li>
+                          <li>Input data supplier, ubah, hapus</li>
+                          <li>Input data transaksi, sisa barang</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <!-- PORT 3 AKHIR -->
+                    <!-- PORT 4 AWAL -->
+                    <div class="row">
+                      <hr>
+                      <div class="col-sm-4">
+                        <a href="assets/img/4.png" class="thumbnail">
+                          <img src="assets/img/4.png">
+                        </a>
+                      </div>
+                      <div class="col-sm-8">
+                        <p style="font-size:17px;">Aplikasi Kampus.</p>
+                        <ul>
+                         <li>SB Admin 2, PHP CI, Bootstrap 4</li>
+                         <li>login untuk 1 admin dan banyak user</li>
+                         <li>Input data mahasiswa, ubah, hapus</li>
+                         <li>Input data dosen, ubah, hapus</li>
+                         <li>Input data jadwal, ubah, hapus</li>
+                         <li>Input data Mata Kuliah, ubah, hapus</li>
+                       </ul>
+                     </div>
+                   </div>
+                   <!-- PORT 4 AKHIR -->
+                   <!-- PORT 5 AWAL -->
+                   <div class="row">
+                    <hr>
+                    <div class="col-sm-4">
+                      <a href="assets/img/55.png" class="thumbnail">
+                        <img src="assets/img/55.png">
+                      </a>
+                    </div>
+                    <div class="col-sm-8">
+                      <p style="font-size:17px;">Blog.</p>
+                      <ul>
+                        <li>PHP Native, JavaScript, MySQL</li>
+                        <li>Free downloads : source code javascript game, template HTML, aplikasi, DLL</li>
+                        <li>Learn : tutorial bahasa pemrograman, free editor live</li>
+                        <li>live chat : chat public</li>
+                      </ul>
+                    </div>
+                  </div>
